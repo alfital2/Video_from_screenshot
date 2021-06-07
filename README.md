@@ -31,7 +31,7 @@ npm install
 In order to prevent the need to install the videoShow globaly, after cloning this project and installing the dependenciese ,please go to :
 
 ```
-node_modules -> videoshow -> lib -> index
+node_modules -> videoshow -> lib -> index.js
 ```
 
 Replace the code with : 
