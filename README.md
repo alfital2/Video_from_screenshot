@@ -22,7 +22,7 @@ file: "path/to/file/video.mp4"
 
 # Quick start
 
-Install dependencies both in the client and the server:
+Install dependencies on the root folder:
 
 ```
 npm install
