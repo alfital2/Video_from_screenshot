@@ -70,3 +70,11 @@ then, run the urlSend.js file:
 node urlSend.js
 ```
 
+# Change URL
+
+In order to take a screenshot of a web site that you want, please change the value of the variable USER_URL in the urlSend.js to the URL you want. 
+for example: 
+```
+const USER_URL = 'https://github.com/alfital2/Video_from_screenshot';
+```
+
